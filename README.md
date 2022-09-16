@@ -1,8 +1,8 @@
-# on-premises-mysql-agent
+# Devaten On-Premises MySQL Agent
 
 ## How to Install 
 
-To run the On-Premise Mysql Agent Docker Compose File locally, you must have git, docker and docker compose installed and do the following:
+To run the On-Premise Mysql Agent Docker Compose File locally, you must have Git, Docker and Docker Compose installed and do the following:
 
 Firstly Clone the Docker Compose file from Github using -
 
