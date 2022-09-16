@@ -46,16 +46,22 @@ command in your terminal. It will stop your application.
 
 If you want to resume the stopped containers, type 
 
-``` sudo docker-compose unpause ```
+``` 
+sudo docker-compose unpause
+```
 
 command in your terminal. It will start your application again.
 
 If you want to check the logs of any of the running containers use this command- 
 
-``` sudo docker logs -f Container_Name ```
+```
+ sudo docker logs -f Container_Name 
+```
 
 To remove all the running containers of the on-premise dashboard docker image use this command- 
 
-``` sudo docker-compose down ``` 
+```
+sudo docker-compose down 
+``` 
 
 It will stop all running containers and delete all the containers.
