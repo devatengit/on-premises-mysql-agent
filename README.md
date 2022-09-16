@@ -11,9 +11,9 @@ https://github.com/devatengit/on-premises-mysql-agent.git
 ``` 
 ## Note:
 
-This document has been written for ``` Ubuntu ```
+1. This document has been written for ``` Ubuntu ```
 
-Windows users and the Linux users who access the terminals with ``` root ``` access they do not need to type ``` sudo ``` in front of Docker commands. ``` e.g. docker-compose pull ```
+2. Windows users and the Linux users who access the terminals with ``` root ``` access they do not need to type ``` sudo ``` in front of Docker commands. ``` e.g. docker-compose pull ```
 
 ## How to Run
 
