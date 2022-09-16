@@ -23,7 +23,7 @@ https://github.com/devatengit/on-premises-mysql-agent.git
 sudo docker-compose pull
 ```
 
- &nbsp; This will download the docker images locally.
+ &ensp; This will download the docker images locally.
 
 3. To run Docker Images mentioned in Docker Compose File, Write the following command:
 
