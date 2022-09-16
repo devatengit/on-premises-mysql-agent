@@ -1,5 +1,4 @@
 # on-premises-mysql-agent
-Devaten On-Premise MySQL Agent
 
 ## How to Install 
 
