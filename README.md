@@ -18,7 +18,7 @@ Windows users and the Linux users who access the terminals with ``` root ``` acc
 
 ## How to Run
 
-You will see the 'on-premises-mysql-agent' folder as soon as the clone is complete. Go to that folder, open terminal and run the following commands:
+You will see the ``` on-premises-mysql-agent ``` folder as soon as the clone is complete. Go to that folder, open terminal and run the following commands:
 
 ```
 sudo docker-compose pull
