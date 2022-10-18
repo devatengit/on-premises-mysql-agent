@@ -19,7 +19,7 @@ git clone https://github.com/devatengit/on-premises-mysql-agent.git
 
 2. You will see the 'on-premises-mysql-agent' folder as soon as the clone is complete. Go to that folder, open terminal and run the following commands:
 
-```
+```ruby
 sudo docker-compose pull
 ```
 
@@ -27,7 +27,7 @@ sudo docker-compose pull
 
 3. To run Docker Images mentioned in Docker Compose File, Write the following command:
 
-```
+```ruby
 sudo docker-compose up
 ```
 
@@ -37,7 +37,7 @@ sudo docker-compose up
 
 5. If you want to stop the running containers, type
 
-```
+```ruby
 sudo docker-compose pause
 ```
 
@@ -45,7 +45,7 @@ sudo docker-compose pause
 
 6. If you want to resume the stopped containers, type 
 
-``` 
+``` ruby
 sudo docker-compose unpause 
 ```
 
@@ -53,13 +53,13 @@ sudo docker-compose unpause
 
 7. If you want to check the logs of any of the running containers use this command- 
 
-``` 
+```ruby 
 sudo docker logs -f Container_Name 
 ```
 
 8. To remove all the running containers of the on-premise dashboard docker image use this command- 
 
-``` 
+```ruby 
 sudo docker-compose down 
 ``` 
 
